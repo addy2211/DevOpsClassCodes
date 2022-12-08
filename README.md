@@ -56,6 +56,7 @@ To checkout and run the project in Eclipse, do:
 - Set the repository URL to https://github.com/vaadin/addressbook.git
 - Right click the imported "addressbook" and choose Run As -> Maven Build...
   - Set the goal to "jetty:run" and click "Run"
+  - hi this is aditya
 
 You should now have a Jetty server running on localhost:8080. Navigate to [http://localhost:8080/](http://localhost:8080/) to play with the application
 
